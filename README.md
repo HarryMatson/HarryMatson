@@ -1,12 +1,20 @@
 
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0d6efd&height=200&section=header&text=Hi,%20I'm%20Harry!&fontSize=40&fontAlignY=40&desc=Linux%20Developer%20%7C%20System%20Engineer&descAlignY=60&textColor=ffffff" 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0d6efd&height=200&section=header&text=Hi,%20welcome%20to%20my%20GitHub!&fontSize=40&fontAlignY=40&textColor=ffffff&desc=Not%20my%20first%20GitHub%20%E2%80%94%20lost%20the%20original%20in%20my%20first%20year%20of%20college.&descAlignY=60" 
     alt="Wave Banner"
   />
 </p>
 
+
+
+
+
 ## 🚀 About Me
+
+<p align="center">
+  <img src="me.png" alt="Harry Matson" height="370" width="550" style="border-radius: 50%;" />
+</p>
 
 - 🎓 Started programming in Grade 5—tinkering with Android kernels and HALs.
 - 💼 Former ICT Web Developer; now a Bachelor's in Engineering Technology in TUPV.
@@ -126,7 +134,7 @@
 
 
   - <a href="mailto:harrymatson2005@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-harry.matson%40example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-harrymatson2005%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>   
   
   
