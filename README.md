@@ -1,7 +1,7 @@
 
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0d6efd&height=200&section=header&text=Hi,%20welcome%20to%20my%20GitHub!&fontSize=40&fontAlignY=40&textColor=ffffff&desc=Not%20my%20first%20GitHub%20%E2%80%94%20lost%20the%20original%20in%20my%20first%20year%20of%20college.&descAlignY=60" 
+    src="https://capsule-render.vercel.app/api?type=waving&height=200&color=38bdae&text=Hi,%20welcome%20to%20my%20GitHub!&section=header&reversal=true&fontSize=60&fontAlignY=25&fontColor=FFFFFF&desc=Not%20my%20first%20GitHub%20%E2%80%94%20lost%20the%20original%20in%20my%20first%20year%20of%20college.&descAlignY=46&animation=twinkling" 
     alt="Wave Banner"
   />
 </p>
@@ -152,7 +152,7 @@
 
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0d6efd&height=120&textColor=ffffff" 
+    src="https://capsule-render.vercel.app/api?type=waving&height=200&color=38bdae&section=footer&reversal=true&fontSize=60&fontAlignY=25&fontColor=FFFFFF&descAlignY=46&animation=twinkling" 
     alt="Wave Footer"
   />
 </p>
